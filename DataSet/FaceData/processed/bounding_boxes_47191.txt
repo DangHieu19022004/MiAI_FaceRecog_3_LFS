@@ -1,0 +1,55 @@
+Dataset/FaceData/processed\TrangNhung\IMG_20250326_134210.png 895 349 1544 1272
+Dataset/FaceData/processed\TrangNhung\IMG_20250326_134208.png 535 336 1175 1157
+Dataset/FaceData/processed\TrangNhung\IMG_20250326_134211.png 586 360 1301 1293
+Dataset/FaceData/processed\Xemesis\Messenger_creation_40E43D0C-5583-4E7F-BBAF-F0BD248EE25D.png 348 648 886 1345
+Dataset/FaceData/processed\Xemesis\Messenger_creation_0BB36BA4-463A-4FE8-A1D8-7FBEEAD0218A.png 0 293 772 1203
+Dataset/FaceData/processed\Emma\IMG_20250326_151626.png 967 170 1656 1050
+Dataset/FaceData/processed\Emma\IMG_20250326_151731.png 362 264 1458 1704
+Dataset/FaceData/processed\Emma\IMG_20250326_151738.png 380 538 1544 1985
+Dataset/FaceData/processed\Emma\IMG_20250326_151720.png 417 326 1549 1712
+Dataset/FaceData/processed\TrinhHuuTuan\IMG1.png 199 545 810 1319
+Dataset/FaceData/processed\TrinhHuuTuan\IMG2.png 298 659 907 1438
+Dataset/FaceData/processed\BotIu\Messenger_creation_1EC7F595-3688-43DB-B2E4-1A65CF0802F0.png 589 739 1206 1280
+Dataset/FaceData/processed\BotIu\Messenger_creation_9EA4596D-3B30-4172-9ADE-DFA0E6875DA9.png 338 362 954 1198
+Dataset/FaceData/processed\BotIu\Messenger_creation_9B02EF81-19C8-49B4-9125-9439B97BE7A4.png 527 904 1096 1457
+Dataset/FaceData/processed\TrinhTranPhuongTuan\Screenshot 2025-03-26 152756.png 73 208 429 642
+Dataset/FaceData/processed\TrinhTranPhuongTuan\Screenshot 2025-03-26 152811.png 20 150 367 604
+Dataset/FaceData/processed\TrinhTranPhuongTuan\Screenshot 2025-03-26 152730.png 73 210 394 633
+Dataset/FaceData/processed\Viruss\Messenger_creation_1EFFC217-D09C-416C-86FD-59975646D0EE.png 154 108 1417 1799
+Dataset/FaceData/processed\Viruss\Messenger_creation_B0605F72-CD05-4E02-8A7B-66FF0577F5AF.png 364 442 910 1148
+Dataset/FaceData/processed\Viruss\Messenger_creation_7D77F713-A6DC-42A6-B432-478470A160F4.png 50 121 926 1264
+Dataset/FaceData/processed\NgocKem\IMG_1742972407559.png 304 247 820 976
+Dataset/FaceData/processed\NgocKem\IMG_1742972428266.png 300 233 870 981
+Dataset/FaceData/processed\NgocKem\IMG_1742972431298.png 180 168 796 998
+Dataset/FaceData/processed\ThaoNguyen\IMG_20250325_173023.png 389 530 1184 1500
+Dataset/FaceData/processed\ThaoNguyen\IMG_20250325_173028.png 490 449 1140 1231
+Dataset/FaceData/processed\ThaoNguyen\IMG_20250325_173025.png 513 544 1284 1399
+Dataset/FaceData/processed\ThaoNguyen\IMG_20250325_173026.png 489 328 1176 1142
+Dataset/FaceData/processed\AnhTu\Messenger_creation_B7948BE5-4E60-488E-AA05-A6EE773375FF.png 321 361 1163 1438
+Dataset/FaceData/processed\AnhTu\Messenger_creation_3513C404-872B-4059-9818-DA01337AFC7D.png 217 635 1053 1802
+Dataset/FaceData/processed\AnhTu\Messenger_creation_74F48522-20E2-499E-BF13-183A3613A977.png 474 420 1348 1596
+Dataset/FaceData/processed\Thao\98E5A551-3DC2-4A85-9497-AFA4A845325A.png 287 854 841 1536
+Dataset/FaceData/processed\Thao\851D4C65-07BE-4220-8488-84C40C1A79D6.png 163 460 841 1386
+Dataset/FaceData/processed\Phuong\Messenger_creation_07B34AE7-45ED-4C9F-BD51-83035DA8B5A4.png 383 266 1204 1442
+Dataset/FaceData/processed\Phuong\Messenger_creation_8461CDFC-3B34-4479-B438-1BD2FD3647CF.png 398 511 855 1063
+Dataset/FaceData/processed\Phuong\Messenger_creation_7343AEA7-71DD-40DB-B8C3-9D6F0CED60F9.png
+Dataset/FaceData/processed\ThienAn\att.egtzxRes4EVPEbV4hPcWEW7g0qWm7_7dB1ObmQ-jbw8.png 357 494 1083 1463
+Dataset/FaceData/processed\LeAnhTrang\IMG_1742972296094.png 436 138 965 850
+Dataset/FaceData/processed\LeAnhTrang\IMG_20250326_134739.png 417 628 1522 2056
+Dataset/FaceData/processed\Jack\A3FED369-0E1F-4064-830E-FBFD69D77C85.png 111 709 831 1654
+Dataset/FaceData/processed\Jack\2209C349-3B30-47AC-89C1-1152E1A42FFC.png 224 606 982 1624
+Dataset/FaceData/processed\NghiemAnhHieu\IMG_20250327_092236.png 274 800 1031 1820
+Dataset/FaceData/processed\NghiemAnhHieu\IMG_20250327_092241.png 486 1016 840 1487
+Dataset/FaceData/processed\NghiemAnhHieu\IMG_0327.png 83 74 764 794
+Dataset/FaceData/processed\NghiemAnhHieu\IMG_20250327_092237.png 566 1129 1142 1953
+Dataset/FaceData/processed\TranDangHieu\download (2).png 152 762 696 1478
+Dataset/FaceData/processed\TranDangHieu\download (1).png 262 672 767 1357
+Dataset/FaceData/processed\TranDangHieu\download.png 202 705 750 1444
+Dataset/FaceData/processed\BuiCongSon\485424995_1386922852752466_129752981138586263_n.png 320 554 1058 1544
+Dataset/FaceData/processed\BuiCongSon\485512577_2113779945729669_160018376255303225_n.png 318 390 1184 1528
+Dataset/FaceData/processed\BuiCongSon\485464001_1219012669643907_2610181536763391909_n.png 461 308 1375 1574
+Dataset/FaceData/processed\BuiCongSon\z6377532752047_4b7b3c7d460239f92fa3cec037738eca.png 462 527 1017 1272
+Dataset/FaceData/processed\BuiCongSon\485290655_1069958524968534_6128511440722701069_n.png 376 472 1198 1582
+Dataset/FaceData/processed\TuSenna\IMG_20250326_135145.png 80 165 468 685
+Dataset/FaceData/processed\TuSenna\IMG_20250326_135147.png 225 199 579 683
+Dataset/FaceData/processed\TuSenna\IMG_20250326_135142.png 171 209 549 722
